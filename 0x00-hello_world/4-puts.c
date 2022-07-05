@@ -5,9 +5,7 @@
  *
  * description - the starting point of the program
  *
- * return - gives feedback on  execution of main function
- *
- * description - returns a value indication program output
+ * return: Always return 0 (success)
  */
 int main(void)
 {
