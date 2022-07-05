@@ -5,7 +5,7 @@
  *
  * description - the starting point of the program
  *
- * return: Always return 0 (success)
+ * Return: 0 signifies everything was ok
  */
 int main(void)
 {
