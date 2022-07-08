@@ -5,7 +5,7 @@
  *
  * Return: 0 always
  */
-int maiain(void)
+int main(void)
 {
 	int ch;
 
@@ -15,7 +15,7 @@ int maiain(void)
 		if (ch != 57 )
 		{
 			putchar(44);
-			purchar(32);
+			putchar(32);
 		}
 	}
 	putchar(10);
