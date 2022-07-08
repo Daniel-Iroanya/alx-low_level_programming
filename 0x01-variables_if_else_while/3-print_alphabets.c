@@ -13,7 +13,7 @@ int main(void)
 	{
 	putchar(a);
 	}
-	for (a = 65 ; A <= 90 ; A++);
+	for (a = 65 ; a <= 90 ; a++);
 	{
 	putchar(a);
 	}
