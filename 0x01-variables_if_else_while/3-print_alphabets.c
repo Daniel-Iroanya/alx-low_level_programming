@@ -11,9 +11,13 @@ int main(void)
 	int A;
 
 	for (a = 97 ; a <= 122 ; a++);
+	{
 	putchar(a);
+	}
 	for (A = 65 ; A <= 90 ; A++);
+	{
 	putchar(A);
+	}
 	putchar(10);
 	return (0);
 }
