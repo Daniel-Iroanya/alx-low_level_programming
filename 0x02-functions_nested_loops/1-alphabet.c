@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints lower case letters followed by new line
+ * ptint_alphabet - prints lower case letters followed by new line
  */
 void print_alphabet(void)
 {
