@@ -2,7 +2,7 @@
 
 /**
 *
-*reset_to_98 -> a pointer to an int as parameter
+* reset_to_98 -> a function to update the reference of a number
 *
 * @n: to be updated
 *
