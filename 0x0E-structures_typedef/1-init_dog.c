@@ -6,6 +6,8 @@
   *@d: pointer to structure.
   *@age: second member.
   *@owner: third member.
+  *@name: first member.
+  *
   *Return: void.
   */
 void init_dog(struct dog *d, char *name, float age, char *owner)
