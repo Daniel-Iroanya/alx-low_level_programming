@@ -5,9 +5,6 @@
 /**
  * print_dog - prints a struct dog
  * @d: pointer to struct
- * @name: first member
- * @owner: second member
- * @age: third member
  *
  * Return: void
  */
